@@ -34,6 +34,11 @@ body{
     font-weight: 400;
     font-size: 18px;
 }
+.menu-link:hover{
+    background-color: rgba(236, 217, 196, 0.53) ;
+    border-radius: 20px;
+    padding: 5px;
+}
 
 .principal{
   border-top: 0.4px solid #FFF2E7;
